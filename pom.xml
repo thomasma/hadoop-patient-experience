@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>doop1</groupId>
-	<artifactId>patexp</artifactId>
+	<artifactId>hadoop-patient-experience</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
